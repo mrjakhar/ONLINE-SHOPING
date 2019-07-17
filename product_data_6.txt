@@ -1,0 +1,15 @@
+61
+Surya_gas_stove
+5000
+300
+50
+62
+RO_purifier
+12000
+187
+12
+63
+havels_Geaser
+12000
+134
+12
